@@ -1,0 +1,6 @@
+C:\Users\lucas.marcondes\Documents\Cursos\C# com SOLID\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\lucas.marcondes\Documents\Cursos\C# com SOLID\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\lucas.marcondes\Documents\Cursos\C# com SOLID\DesignPatterns\Builder\bin\Debug\Builder.exe
+C:\Users\lucas.marcondes\Documents\Cursos\C# com SOLID\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\lucas.marcondes\Documents\Cursos\C# com SOLID\DesignPatterns\Builder\obj\Debug\Builder.exe
+C:\Users\lucas.marcondes\Documents\Cursos\C# com SOLID\DesignPatterns\Builder\obj\Debug\Builder.pdb
